@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header .logo {
+  display: flex;
+  width: 297px;
+  height: 96px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+
+  color: #001A1B;
+text-align: center;
+font-family: Kapakana;
+font-size: 58px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
